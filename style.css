@@ -1,0 +1,27 @@
+.header{
+    width: 100%;
+    margin: 0px;
+    font-size: 19px;
+    color: whitesmoke;
+box-shadow:5px 5px 5px brown ;
+}
+.head{
+    font-size: 17px;
+    color: orange;
+    font-family: cursive; 
+}
+.footer{
+    position: fixed;
+    background-color: paleturquoise;
+    color: rebeccapurple;
+    font-size: 20px;
+    width: 100%;
+  text-align: center;
+  /* m; */
+  bottom: 0;
+}
+canvas{
+    border:5px royalblue solid;
+    box-shadow:5px 5px 5px chocolate ;
+    border-radius: 17px;
+}
